@@ -55,7 +55,7 @@ module.exports = {
 				"You mean like a weenie? OKAY!",
 				"Me thinks it's mutton-tastic!",
 				"Hey, we are not chicken! Oh no, my popcorn!",
-				"Is he the badguy?",
+				"Is he the bad guy?",
 				"I am not a Krusty Krab!",
 				"Isn't that the red sweaty guy you work for?",
 				"I love you.",
