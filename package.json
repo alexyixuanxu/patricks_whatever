@@ -1,0 +1,25 @@
+{
+  "name": "patricks_whatever",
+  "version": "1.0.0",
+  "description": "A Twitter Bot that generate random Patrick Star rambling.",
+  "main": "bot.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "rita": "^1.3.85",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexyixuanxu/patricks_whatever.git"
+  },
+  "author": "Alex Yixuan Xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexyixuanxu/patricks_whatever/issues"
+  },
+  "homepage": "https://github.com/alexyixuanxu/patricks_whatever#readme"
+}

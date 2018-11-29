@@ -45,3 +45,14 @@ if (d.getHours()===0 || d.getHours()===4 || d.getHours()===8 || d.getHours()===1
 
 // send a tweet
 sendTweet();
+
+/*
+let myStream = obj_Twit.stream('user');
+myStream.on('tweet', replyTweet);
+
+function replyTweet(data){
+	if (data.user.screen_name === 'SpongeBob'){
+
+	}
+}
+*/
